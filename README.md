@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-With over 5 years of industry experience, I specialize in transforming data and building efficient, scalable systems. My expertise spans across a broad range of technologies and tools, ensuring that I can tackle a variety of data engineering and development challenges.
+With over 6 years of industry experience, I specialize in transforming data and building efficient, scalable systems. My expertise spans across a broad range of technologies and tools, ensuring that I can tackle a variety of data engineering and development challenges.
 
 ## 🛠️ Skills & Technologies
 
@@ -52,7 +52,7 @@ Feel free to reach out for freelance opportunities, job support, or any question
 
 ## 📈 GitHub Stats
 
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexdoe&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Malik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaikmalikbasha583&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
